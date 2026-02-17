@@ -1,0 +1,5 @@
+Las conclusiones son las siguientes:
+
+- Se puede automatizar Apis utilizando el lenguaje Gherkin con la heramienta Karate
+- Se puede manejar varios valores de entrada
+
